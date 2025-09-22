@@ -1,19 +1,19 @@
-**Nama : Felix Amon Sitinjak**
-**NIM : 312410063**
+**Nama : habib fatih zanjabilah**
+**NIM : 312410135**
 **Kelas : TI.24.A1**
 
-**Hasil Output**
+**HASIL OUTPUT**
 
 <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/45d1e59b-4406-4301-8bd6-dab852cdb833" />
 
-# Belajar Dasar HTML
+# Day1 Belajar HTML
 
 Proyek ini merupakan latihan **HTML dasar** pada mata kuliah *Pemrograman Web* di Prodi **Teknik Informatika Universitas Pelita Bangsa**.  
 Tujuan utama dari latihan ini adalah memahami penggunaan tag-tag HTML dasar untuk membuat halaman web sederhana.
 
 ---
 
-## 📖 Deskripsi
+## Deskripsi
 Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:
 - **Heading** (`<h1>`, `<h2>`, dll.)
 - **Paragraf** (`<p>`)
@@ -23,16 +23,16 @@ Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:
 
 ---
 
-## 🖼️ Tampilan
+## Tampilan
 Berikut contoh tampilan halaman web:
 
 ![Tampilan HTML Dasar](./screenshot.png)
 
 ---
 
-## 📂 Struktur File
+## Struktur File
 
-**Penjelasan Code**
+**Penjelasan CODE**
 ```
 <!DOCTYPE html>
 <html>
